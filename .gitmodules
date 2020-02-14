@@ -1,0 +1,4 @@
+[submodule "UmpireBuddy"]
+	url = https://github.com/evanwike/UmpireBuddy
+[submodule "TradeBlock"]
+	url = https://github.com/evanwike/TradeBlock
