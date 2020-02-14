@@ -1,0 +1,9 @@
+[submodule "UmpireBuddy"]
+	path = UmpireBuddy
+	url = https://github.com/evanwike/UmpireBuddy
+[submodule "UmpireBuddy-2.0"]
+	path = UmpireBuddy-2.0
+	url = https://github.com/evanwike/UmpireBuddy-2.0
+[submodule "TradeBlock"]
+	path = TradeBlock
+	url = https://github.com/evanwike/TradeBlock
